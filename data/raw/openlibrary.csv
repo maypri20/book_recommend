@@ -1,0 +1,658 @@
+Genre,Title,Author,Average Rating,Ratings Count,Publication Year,Link
+fantasy,Lilith,George MacDonald,3.2,5.0,1895.0,https://openlibrary.org/works/OL15437W
+fantasy,The Sea Fairies,L. Frank Baum,3.33,3.0,1911.0,https://openlibrary.org/works/OL262384W
+fantasy,The Phoenix and the Carpet,Edith Nesbit,3.1,10.0,1903.0,https://openlibrary.org/works/OL99539W
+fantasy,The Enchanted Castle,Edith Nesbit,4.18,11.0,1907.0,https://openlibrary.org/works/OL99541W
+fantasy,Phantastes,George MacDonald,3.83,12.0,1850.0,https://openlibrary.org/works/OL15450W
+fantasy,Peter Pan,J. M. Barrie,3.72,39.0,1911.0,https://openlibrary.org/works/OL462007W
+fantasy,Dracula,Bram Stoker,4.05,172.0,1897.0,https://openlibrary.org/works/OL85892W
+fantasy,Carmilla,Sheridan Le Fanu,3.89,55.0,1871.0,https://openlibrary.org/works/OL2895536W
+fantasy,She,H. Rider Haggard,3.83,6.0,1886.0,https://openlibrary.org/works/OL17453W
+fantasy,The Great God Pan,Arthur Machen,3.51,41.0,1894.0,https://openlibrary.org/works/OL3388961W
+fantasy,Sons and Lovers,D. H. Lawrence,4.29,7.0,1913.0,https://openlibrary.org/works/OL81295W
+fantasy,The Book of Dragons,Edith Nesbit,4.0,13.0,1973.0,https://openlibrary.org/works/OL99529W
+fantasy,The princess and the goblin,George MacDonald,2.33,3.0,1907.0,https://openlibrary.org/works/OL6583284W
+fantasy,Alice's Adventures in Wonderland,Lewis Carroll,4.04,200.0,1865.0,https://openlibrary.org/works/OL138052W
+fantasy,The Awakening,Kate Chopin,3.67,36.0,1899.0,https://openlibrary.org/works/OL65430W
+fantasy,The King in Yellow,Robert W. Chambers,3.91,11.0,1895.0,https://openlibrary.org/works/OL8127201W
+fantasy,Women in Love,D. H. Lawrence,3.58,19.0,1877.0,https://openlibrary.org/works/OL81294W
+fantasy,The Jewel of Seven Stars,Bram Stoker,4.5,6.0,1902.0,https://openlibrary.org/works/OL85891W
+fantasy,The Hobbit,J.R.R. Tolkien,4.28,469.0,1937.0,https://openlibrary.org/works/OL27482W
+fantasy,The Man Who Was Thursday,Gilbert Keith Chesterton,3.46,28.0,1908.0,https://openlibrary.org/works/OL76487W
+fantasy,Hans Andersen's Fairy Tales,Hans Christian Andersen,3.88,26.0,1846.0,https://openlibrary.org/works/OL16249171W
+fantasy,Animal Farm,George Orwell,4.13,531.0,1945.0,https://openlibrary.org/works/OL1168007W
+fantasy,Anne of Avonlea,Lucy Maud Montgomery,4.2,25.0,1909.0,https://openlibrary.org/works/OL77744W
+fantasy,The Invisible Man,H. G. Wells,3.82,100.0,0.0,https://openlibrary.org/works/OL52266W
+fantasy,Northern Lights,Philip Pullman,3.94,219.0,1995.0,https://openlibrary.org/works/OL28988W
+fantasy,A Game of Thrones,George R. R. Martin,4.22,721.0,1996.0,https://openlibrary.org/works/OL257943W
+fantasy,Treasure Island,Robert Louis Stevenson,3.74,93.0,1880.0,https://openlibrary.org/works/OL24034W
+fantasy,Five Children and It,Edith Nesbit,3.6,5.0,1905.0,https://openlibrary.org/works/OL99499W
+fantasy,The Two Towers,J.R.R. Tolkien,4.37,216.0,1954.0,https://openlibrary.org/works/OL27479W
+fantasy,The Subtle Knife,Philip Pullman,4.0,103.0,1997.0,https://openlibrary.org/works/OL28993W
+fantasy,Dorothy and the Wizard in Oz,L. Frank Baum,3.7,10.0,1908.0,https://openlibrary.org/works/OL18412W
+fantasy,The Fellowship of the Ring,J.R.R. Tolkien,4.37,372.0,1954.0,https://openlibrary.org/works/OL27513W
+fantasy,The Return of the King,J.R.R. Tolkien,4.42,102.0,1950.0,https://openlibrary.org/works/OL27455W
+fantasy,The Silmarillion,J.R.R. Tolkien,3.96,112.0,1977.0,https://openlibrary.org/works/OL27495W
+fantasy,The Last Battle,C.S. Lewis,3.89,70.0,1956.0,https://openlibrary.org/works/OL71124W
+fantasy,"The Lion, the Witch and the Wardrobe",C.S. Lewis,4.13,118.0,1950.0,https://openlibrary.org/works/OL71037W
+fantasy,Ozma of Oz,L. Frank Baum,4.0,10.0,1907.0,https://openlibrary.org/works/OL18415W
+fantasy,The War of the Worlds,H. G. Wells,3.81,148.0,0.0,https://openlibrary.org/works/OL52114W
+fantasy,The Time Machine,H. G. Wells,3.89,109.0,1895.0,https://openlibrary.org/works/OL52267W
+fantasy,Prince Caspian,C.S. Lewis,3.96,93.0,1951.0,https://openlibrary.org/works/OL71069W
+fantasy,Adventures of Huckleberry Finn,Mark Twain,3.84,214.0,1876.0,https://openlibrary.org/works/OL53908W
+fantasy,King Solomon's Mines,H. Rider Haggard,4.12,24.0,1880.0,https://openlibrary.org/works/OL17448W
+fantasy,The Lightning Thief,Rick Riordan,4.27,370.0,2005.0,https://openlibrary.org/works/OL492658W
+fantasy,The Handmaid's Tale,Margaret Atwood,3.94,113.0,1985.0,https://openlibrary.org/works/OL675783W
+fantasy,Brood of the Witch-Queen,Sax Rohmer,4.6,5.0,1924.0,https://openlibrary.org/works/OL2288676W
+fantasy,The Lord of the Rings,J.R.R. Tolkien,4.51,98.0,1954.0,https://openlibrary.org/works/OL27448W
+fantasy,The Picture of Dorian Gray,Oscar Wilde,4.11,107.0,1890.0,https://openlibrary.org/works/OL8193416W
+fantasy,The Horse and His Boy,C.S. Lewis,3.96,76.0,1954.0,https://openlibrary.org/works/OL71058W
+fantasy,The Voyage of the Dawn Treader,C.S. Lewis,4.13,99.0,1952.0,https://openlibrary.org/works/OL71132W
+fantasy,The Silver Chair,C.S. Lewis,4.0,31.0,1953.0,https://openlibrary.org/works/OL71078W
+fantasy,The Lost World,Arthur Conan Doyle,4.0,41.0,1900.0,https://openlibrary.org/works/OL262460W
+fantasy,A Connecticut Yankee in King Arthur's Court,Mark Twain,3.73,15.0,1889.0,https://openlibrary.org/works/OL54031W
+fantasy,The Magician's Nephew,C.S. Lewis,4.07,102.0,1955.0,https://openlibrary.org/works/OL71042W
+fantasy,The Mysterious Affair at Styles,"Agatha Christie, Lazlo Ferra, Anne Powers, Jose Valladares, Arthur Robison, J. V. Editors",3.99,71.0,1920.0,https://openlibrary.org/works/OL472715W
+fantasy,The Wonderful Wizard of Oz,L. Frank Baum,3.96,119.0,1899.0,https://openlibrary.org/works/OL18417W
+fantasy,Emma,Jane Austen,3.96,52.0,1815.0,https://openlibrary.org/works/OL66513W
+fantasy,The Adventures of Tom Sawyer,Mark Twain,3.97,150.0,1817.0,https://openlibrary.org/works/OL53919W
+fantasy,Harry Potter and the Half-Blood Prince,"J. K. Rowling, Mary GrandPré",4.36,197.0,2005.0,https://openlibrary.org/works/OL82565W
+fantasy,Harry Potter and the Deathly Hallows,J. K. Rowling,4.27,397.0,2007.0,https://openlibrary.org/works/OL82586W
+fantasy,Twilight,Stephenie Meyer,3.62,400.0,2005.0,https://openlibrary.org/works/OL5720023W
+fantasy,Sense and Sensibility,Jane Austen,3.79,39.0,1811.0,https://openlibrary.org/works/OL66562W
+fantasy,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,4.25,603.0,1999.0,https://openlibrary.org/works/OL82536W
+fantasy,Romeo and Juliet,William Shakespeare,3.66,203.0,1597.0,https://openlibrary.org/works/OL362427W
+fantasy,Bridge to Terabithia,Katherine Paterson,4.14,56.0,1972.0,https://openlibrary.org/works/OL27079W
+fantasy,Harry Potter and the Order of the Phoenix,J. K. Rowling,4.21,299.0,2003.0,https://openlibrary.org/works/OL82548W
+fantasy,A Wrinkle in Time,Madeleine L'Engle,3.94,164.0,1962.0,https://openlibrary.org/works/OL41495W
+fantasy,The Story of the Amulet,Edith Nesbit,3.67,9.0,1905.0,https://openlibrary.org/works/OL407476W
+fantasy,Frankenstein or The Modern Prometheus,Mary Shelley,3.96,204.0,1818.0,https://openlibrary.org/works/OL450063W
+fantasy,Harry Potter and the Chamber of Secrets,J. K. Rowling,4.2,441.0,1998.0,https://openlibrary.org/works/OL82537W
+fantasy,Where the Wild Things Are,Maurice Sendak,4.16,101.0,1600.0,https://openlibrary.org/works/OL2568879W
+fantasy,"Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",Michael Ende,4.52,31.0,1973.0,https://openlibrary.org/works/OL2271626W
+fantasy,Harry Potter and the Goblet of Fire,"J. K. Rowling, Jim Kay",4.27,325.0,1993.0,https://openlibrary.org/works/OL82560W
+fantasy,The BFG,Roald Dahl,4.1,134.0,1980.0,https://openlibrary.org/works/OL45885W
+fantasy,Harry Potter and the Philosopher's Stone,J. K. Rowling,4.24,932.0,1997.0,https://openlibrary.org/works/OL82563W
+fantasy,The Story of Doctor Dolittle,Hugh Lofting,3.43,7.0,1920.0,https://openlibrary.org/works/OL1449046W
+fantasy,Charlie and the Chocolate Factory,Roald Dahl,4.03,263.0,1964.0,https://openlibrary.org/works/OL45790W
+fantasy,James and the Giant Peach,Roald Dahl,3.95,130.0,1961.0,https://openlibrary.org/works/OL45809W
+fantasy,When the Sleeper Awakes,H. G. Wells,3.6,10.0,1899.0,https://openlibrary.org/works/OL52151W
+fantasy,Charlotte's Web,E. B. White,4.03,403.0,1952.0,https://openlibrary.org/works/OL483391W
+fantasy,The Marvelous Land of Oz,L. Frank Baum,3.33,18.0,1904.0,https://openlibrary.org/works/OL18396W
+fantasy,Kinder- und Hausmärchen,Gebrüder Grimm [Brothers Grimm],4.6,10.0,1812.0,https://openlibrary.org/works/OL45361W
+fantasy,Tik-Tok of Oz,L. Frank Baum,2.5,2.0,1914.0,https://openlibrary.org/works/OL18414W
+fantasy,The Witches,Roald Dahl,4.15,87.0,1983.0,https://openlibrary.org/works/OL45886W
+fantasy,Dune,Frank Herbert,4.3,402.0,1965.0,https://openlibrary.org/works/OL893415W
+fantasy,The Giver,Lois Lowry,4.06,302.0,1993.0,https://openlibrary.org/works/OL1846076W
+fantasy,Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,4.01,98.0,1889.0,https://openlibrary.org/works/OL151411W
+fantasy,The Road to Oz,L. Frank Baum,3.38,8.0,1909.0,https://openlibrary.org/works/OL262390W
+fantasy,Perfume,Patrick Süskind,3.8,75.0,1985.0,https://openlibrary.org/works/OL10834W
+fantasy,The water-babies,"Charles Kingsley, Charles Kingsley",4.0,6.0,1863.0,https://openlibrary.org/works/OL1130095W
+fantasy,Matilda,Roald Dahl,4.37,258.0,1988.0,https://openlibrary.org/works/OL45846W
+fantasy,Catching Fire,Suzanne Collins,4.11,265.0,2009.0,https://openlibrary.org/works/OL5735360W
+fantasy,Flatland,Edwin Abbott Abbott,3.91,97.0,1884.0,https://openlibrary.org/works/OL118388W
+fantasy,Charlie and the Great Glass Elevator,Roald Dahl,3.47,51.0,1972.0,https://openlibrary.org/works/OL45793W
+fantasy,Fantastic Mr Fox,Roald Dahl,3.95,110.0,1970.0,https://openlibrary.org/works/OL45804W
+fantasy,O Alquimista,Paulo Coelho,3.8,416.0,1988.0,https://openlibrary.org/works/OL796465W
+fantasy,A Princess of Mars,Edgar Rice Burroughs,3.97,35.0,1917.0,https://openlibrary.org/works/OL1418187W
+fantasy,The Hunger Games,Suzanne Collins,4.1,481.0,2008.0,https://openlibrary.org/works/OL5735363W
+fantasy,Through the Looking-Glass,"Lewis Carroll, Lewis Carroll, Lewis Lewis Carroll",3.98,52.0,1865.0,https://openlibrary.org/works/OL151406W
+fantasy,Le petit prince,Antoine de Saint-Exupéry,4.34,196.0,1943.0,https://openlibrary.org/works/OL10263W
+fantasy,The Complete Life and Adventures of Santa Claus,L. Frank Baum,4.0,3.0,1902.0,https://openlibrary.org/works/OL262358W
+fantasy,Slaughterhouse-Five,Kurt Vonnegut,4.18,252.0,1968.0,https://openlibrary.org/works/OL98459W
+fantasy,The Last Man,Mary Shelley,3.5,8.0,1826.0,https://openlibrary.org/works/OL450124W
+fantasy,Le avventure di Pinocchio,Carlo Collodi,3.76,21.0,1883.0,https://openlibrary.org/works/OL1527356W
+fantasy,Vingt mille lieues sous les mers,Jules Verne,4.07,55.0,1870.0,https://openlibrary.org/works/OL1099280W
+fantasy,The Ugly Duckling,Hans Christian Andersen,4.39,23.0,1851.0,https://openlibrary.org/works/OL15155002W
+fantasy,Мастер и Маргарита,Михаил Афанасьевич Булгаков,4.2,85.0,1966.0,https://openlibrary.org/works/OL676009W
+fantasy,Cien años de soledad,Gabriel García Márquez,4.05,77.0,1967.0,https://openlibrary.org/works/OL274505W
+fantasy,The Castle of Otranto,Horace Walpole,3.23,13.0,1764.0,https://openlibrary.org/works/OL183675W
+fantasy,Le Tour du Monde en Quatre-Vingts Jours,Jules Verne,3.94,82.0,1872.0,https://openlibrary.org/works/OL1100007W
+fantasy,Of Mice and Men,John Steinbeck,3.97,278.0,1937.0,https://openlibrary.org/works/OL23204W
+fantasy,The Secret Agent,Joseph Conrad,3.56,16.0,1907.0,https://openlibrary.org/works/OL39108W
+fantasy,The Island of Dr. Moreau,H. G. Wells,3.67,48.0,1896.0,https://openlibrary.org/works/OL381550W
+fantasy,Voyage au Centre de la Terre,Jules Verne,3.99,75.0,1867.0,https://openlibrary.org/works/OL1099513W
+fantasy,Fairy Tales and Stories,Hans Christian Andersen,3.43,7.0,1850.0,https://openlibrary.org/works/OL25397W
+fantasy,À rebours,Joris-Karl Huysmans,4.4,10.0,1884.0,https://openlibrary.org/works/OL2239396W
+fantasy,Gulliver's Travels,Jonathan Swift,3.6,87.0,1726.0,https://openlibrary.org/works/OL20600W
+fantasy,Faerie queene,Edmund Spenser,4.0,4.0,1590.0,https://openlibrary.org/works/OL1146502W
+fantasy,Orlando,"Virginia Woolf, Carmen Maria Machado",4.28,18.0,1928.0,https://openlibrary.org/works/OL39360W
+fantasy,The Legend of Sleepy Hollow,Washington Irving,4.17,23.0,1820.0,https://openlibrary.org/works/OL63985W
+fantasy,Nineteen Eighty-Four,George Orwell,4.3,368.0,1949.0,https://openlibrary.org/works/OL1168083W
+romance,The Blithedale Romance,Nathaniel Hawthorne,4.33,3.0,1852.0,https://openlibrary.org/works/OL455512W
+romance,Pygmalion,George Bernard Shaw,3.86,49.0,1912.0,https://openlibrary.org/works/OL1066524W
+romance,Ivanhoe,Sir Walter Scott,3.53,15.0,1800.0,https://openlibrary.org/works/OL863808W
+romance,The Moonstone,Wilkie Collins,4.05,21.0,1868.0,https://openlibrary.org/works/OL176092W
+romance,Tender is the Night,F. Scott Fitzgerald,3.89,19.0,1933.0,https://openlibrary.org/works/OL468485W
+romance,Le roman du masque de fer,Alexandre Dumas,4.43,7.0,1600.0,https://openlibrary.org/works/OL36371W
+romance,The blue castle,Lucy Maud Montgomery,3.76,21.0,1926.0,https://openlibrary.org/works/OL77775W
+romance,The Scarlet Letter,Nathaniel Hawthorne,3.27,109.0,1850.0,https://openlibrary.org/works/OL455305W
+romance,Age of fable,Thomas Bulfinch,3.0,4.0,1800.0,https://openlibrary.org/works/OL77559W
+romance,The House of the Seven Gables,Nathaniel Hawthorne,3.5,6.0,1851.0,https://openlibrary.org/works/OL455663W
+romance,Lord Jim,Joseph Conrad,3.79,14.0,1900.0,https://openlibrary.org/works/OL38684W
+romance,Memórias póstumas de Brás Cubas,Joaquim Maria Machado de Assis,3.73,15.0,1881.0,https://openlibrary.org/works/OL1003017W
+romance,Utopia,Thomas More,3.35,20.0,1518.0,https://openlibrary.org/works/OL15366912W
+romance,Les Trois Mousquetaires,"Alexandre Dumas, Auguste Maquet",4.04,26.0,1844.0,https://openlibrary.org/works/OL36861W
+romance,Orthodoxy,Gilbert Keith Chesterton,4.0,10.0,1874.0,https://openlibrary.org/works/OL76350W
+romance,Shirley,Charlotte Brontë,4.12,8.0,1800.0,https://openlibrary.org/works/OL1095397W
+romance,Persuasion,Jane Austen,4.17,46.0,1789.0,https://openlibrary.org/works/OL66544W
+romance,This Side of Paradise,F. Scott Fitzgerald,3.62,13.0,1920.0,https://openlibrary.org/works/OL468488W
+romance,Le Morte d'Arthur,Thomas Malory,3.47,17.0,1557.0,https://openlibrary.org/works/OL15450151W
+romance,The Canterville Ghost,Oscar Wilde,4.57,7.0,1887.0,https://openlibrary.org/works/OL14877871W
+romance,Genji monogatari,Murasaki Shikibu,4.0,8.0,1900.0,https://openlibrary.org/works/OL2564006W
+romance,Northanger Abbey,Jane Austen,3.81,36.0,1818.0,https://openlibrary.org/works/OL66534W
+romance,Lady Susan,Jane Austen,3.18,11.0,1925.0,https://openlibrary.org/works/OL66614W
+romance,Diary of a Wimpy Kid,Jeff Kinney,4.15,375.0,2002.0,https://openlibrary.org/works/OL8483260W
+romance,Wuthering Heights,Emily Brontë,3.96,237.0,1846.0,https://openlibrary.org/works/OL21177W
+romance,Justine,Marquis de Sade,4.8,5.0,1900.0,https://openlibrary.org/works/OL962240W
+romance,Hong lou meng,"Tsʻao, Hsüeh-chʻin., (qing) Cao, xue qin, Cao xue qin",,,1900.0,https://openlibrary.org/works/OL11675949W
+romance,Der Steppenwolf,Hermann Hesse,3.96,55.0,1927.0,https://openlibrary.org/works/OL872773W
+romance,Bleak House,Charles Dickens,3.93,15.0,1850.0,https://openlibrary.org/works/OL14868510W
+romance,El Conde de Montecristo,Alexandre Dumas,4.31,181.0,1830.0,https://openlibrary.org/works/OL36287W
+romance,The Age of Innocence,Edith Wharton,3.52,46.0,1920.0,https://openlibrary.org/works/OL98491W
+romance,Madame Bovary,Gustave Flaubert,3.67,45.0,1856.0,https://openlibrary.org/works/OL893707W
+romance,The Great Gatsby,F. Scott Fitzgerald,3.96,198.0,1920.0,https://openlibrary.org/works/OL468431W
+romance,Pride and Prejudice,Jane Austen,4.11,337.0,1813.0,https://openlibrary.org/works/OL66554W
+romance,Lady Chatterley's Lover,D. H. Lawrence,3.05,21.0,1900.0,https://openlibrary.org/works/OL81180W
+romance,The Woman in White,Wilkie Collins,4.05,20.0,1860.0,https://openlibrary.org/works/OL176045W
+romance,Little Women,Louisa May Alcott,4.09,116.0,1848.0,https://openlibrary.org/works/OL29983W
+romance,The Alhambra,Washington Irving,4.17,6.0,1800.0,https://openlibrary.org/works/OL63996W
+romance,Jane Eyre,Charlotte Brontë,4.04,164.0,1847.0,https://openlibrary.org/works/OL1095427W
+romance,The Pickwick Papers,Charles Dickens,3.0,4.0,1800.0,https://openlibrary.org/works/OL8763776W
+romance,El amor en los tiempos del cólera,Gabriel García Márquez,4.18,56.0,1985.0,https://openlibrary.org/works/OL274518W
+romance,Hard Times,Charles Dickens,3.95,19.0,1854.0,https://openlibrary.org/works/OL8193387W
+romance,War and Peace,Лев Толстой,4.43,28.0,1864.0,https://openlibrary.org/works/OL267171W
+romance,Tess of the d'Urbervilles,Thomas Hardy,4.0,15.0,1707.0,https://openlibrary.org/works/OL44927W
+romance,Far From the Madding Crowd,Thomas Hardy,3.68,19.0,1874.0,https://openlibrary.org/works/OL44995W
+romance,The Last of the Mohicans,James Fenimore Cooper,3.78,18.0,1826.0,https://openlibrary.org/works/OL77958W
+romance,Ἰλιάς,Όμηρος,4.04,81.0,1505.0,https://openlibrary.org/works/OL61981W
+romance,Anne of Green Gables,Lucy Maud Montgomery,4.23,83.0,1908.0,https://openlibrary.org/works/OL77746W
+romance,An American Tragedy,Theodore Dreiser,3.55,11.0,1900.0,https://openlibrary.org/works/OL100239W
+romance,Анна Каренина,Лев Толстой,4.19,43.0,1876.0,https://openlibrary.org/works/OL267096W
+romance,50 Fifty Shades of Grey,E. L. James,3.93,307.0,2000.0,https://openlibrary.org/works/OL16336633W
+romance,Se questo è un uomo,Primo Levi,4.29,21.0,1947.0,https://openlibrary.org/works/OL860066W
+romance,How to write a sentence,Henry James,3.91,22.0,1881.0,https://openlibrary.org/works/OL276370W
+romance,A Room with a View,E. M. Forster,3.68,19.0,1905.0,https://openlibrary.org/works/OL88813W
+romance,Guess How Much I Love You,"Sam McBratney, Anita Jeram",4.3,77.0,1994.0,https://openlibrary.org/works/OL58402W
+romance,Eva Luna,Isabel Allende,4.0,8.0,1987.0,https://openlibrary.org/works/OL1905263W
+romance,A Midsummer Night's Dream,William Shakespeare,3.78,88.0,1600.0,https://openlibrary.org/works/OL259010W
+romance,A Tale of Two Cities,Charles Dickens,3.78,189.0,1800.0,https://openlibrary.org/works/OL8193465W
+romance,Доктор Живаго,Boris Leonidovich Pasternak,3.36,14.0,1957.0,https://openlibrary.org/works/OL258301W
+romance,Lolita,Vladimir Nabokov,3.93,101.0,1777.0,https://openlibrary.org/works/OL627084W
+romance,Die Blechtrommel,Günter Grass,2.93,14.0,1959.0,https://openlibrary.org/works/OL67334W
+romance,The Return of the Native,Thomas Hardy,4.0,7.0,1878.0,https://openlibrary.org/works/OL44994W
+romance,La Peste,Albert Camus,4.12,26.0,1942.0,https://openlibrary.org/works/OL1230715W
+romance,The Godfather,Mario Puzo,4.2,40.0,1969.0,https://openlibrary.org/works/OL1673205W
+romance,Murder in Three Acts,Agatha Christie,3.7,10.0,1934.0,https://openlibrary.org/works/OL471765W
+romance,La casa de los espíritus,Isabel Allende,4.5,18.0,1982.0,https://openlibrary.org/works/OL1905255W
+romance,The Turn of the Screw,"Henry James, Mxumu Mxama, Henry James",3.49,35.0,1898.0,https://openlibrary.org/works/OL276386W
+romance,A Clockwork Orange,Anthony Burgess,4.05,62.0,1962.0,https://openlibrary.org/works/OL261794W
+romance,A Farewell to Arms,Ernest Hemingway,3.7,56.0,1929.0,https://openlibrary.org/works/OL63072W
+romance,Breakfast at Tiffany's,Truman Capote,3.86,14.0,1956.0,https://openlibrary.org/works/OL1992167W
+romance,The Beautiful and Damned,F. Scott Fitzgerald,4.1,10.0,1922.0,https://openlibrary.org/works/OL468362W
+romance,The Mirror Crack'd from Side to Side,Agatha Christie,4.44,18.0,1960.0,https://openlibrary.org/works/OL471990W
+romance,Noli Me Tangere,José Rizal,4.4,10.0,1902.0,https://openlibrary.org/works/OL1622789W
+romance,In Cold Blood,Truman Capote,4.04,91.0,1965.0,https://openlibrary.org/works/OL1992198W
+romance,La Chute,Albert Camus,3.65,54.0,1917.0,https://openlibrary.org/works/OL1230631W
+romance,Le rouge et le noir,Stendhal,3.88,16.0,1830.0,https://openlibrary.org/works/OL733640W
+romance,The Mystery of the Blue Train,Agatha Christie,3.9,20.0,1928.0,https://openlibrary.org/works/OL471603W
+romance,Howards End,E. M. Forster,4.44,9.0,1910.0,https://openlibrary.org/works/OL88881W
+romance,Black Beauty,Anna Sewell,4.27,22.0,1877.0,https://openlibrary.org/works/OL15854658W
+romance,"Villette, a novel",Charlotte Brontë,3.4,5.0,1853.0,https://openlibrary.org/works/OL1095403W
+romance,Veinte poemas de amor y una canción desesperada,Pablo Neruda,4.0,18.0,1924.0,https://openlibrary.org/works/OL979517W
+romance,Rebecca,Daphne du Maurier,4.18,44.0,1938.0,https://openlibrary.org/works/OL36633W
+romance,Hamlet,William Shakespeare,3.99,157.0,1603.0,https://openlibrary.org/works/OL9170454W
+romance,Les Liaisons dangereuses,Pierre Choderlos de Laclos,3.86,14.0,1782.0,https://openlibrary.org/works/OL1157252W
+romance,Poirot investigates,Agatha Christie,4.2,15.0,1924.0,https://openlibrary.org/works/OL471940W
+romance,Le fantôme de l'opéra,Gaston Leroux,3.86,35.0,1911.0,https://openlibrary.org/works/OL1833989W
+romance,Terre des hommes,Antoine de Saint-Exupéry,4.24,17.0,1936.0,https://openlibrary.org/works/OL86701W
+romance,Daisy Miller,Henry James,3.0,4.0,1877.0,https://openlibrary.org/works/OL276328W
+romance,Death on the Nile,"Agatha Christie, Nancy Taylor, Mikhal Alfon",4.17,24.0,1937.0,https://openlibrary.org/works/OL471724W
+romance,Daddy-Long-Legs,Jean Webster,4.8,5.0,1912.0,https://openlibrary.org/works/OL4322177W
+romance,Мы,"Евгений Иванович Замятин, Gary Kern, Alejandro Ariel González, Tavo Montañez, Sergio Hernández-Ranera Sánchez, Gregory Zilboorg, Alexander Glinka",4.0,40.0,1924.0,https://openlibrary.org/works/OL10215W
+romance,"Works [37 plays, 6 poems, sonnets]",William Shakespeare,3.45,11.0,1730.0,https://openlibrary.org/works/OL259028W
+romance,Memoirs of Fanny Hill,John Cleland,3.4,5.0,1749.0,https://openlibrary.org/works/OL848436W
+romance,Смерть Ивана Ильича,"Лев Толстой, Anthony Briggs, Anthony Horvath, Constance Black Garnett, Zinc Read",4.14,43.0,1887.0,https://openlibrary.org/works/OL267174W
+romance,Confessions,Augustine of Hippo,4.42,19.0,1482.0,https://openlibrary.org/works/OL137872W
+romance,Ethan Frome,Edith Wharton,3.95,39.0,1910.0,https://openlibrary.org/works/OL98501W
+romance,Gone With the Wind,Margaret Mitchell,3.5,44.0,1936.0,https://openlibrary.org/works/OL267933W
+romance,Du côté de chez Swann,Marcel Proust,4.0,7.0,1908.0,https://openlibrary.org/works/OL30053009W
+romance,Vanity Fair,William Makepeace Thackeray,3.83,6.0,1800.0,https://openlibrary.org/works/OL16313W
+fiction,Foundation,Isaac Asimov,4.11,285.0,1951.0,https://openlibrary.org/works/OL46125W
+fiction,Ficciones,Jorge Luis Borges,4.43,37.0,1945.0,https://openlibrary.org/works/OL110971W
+fiction,Beloved,Toni Morrison,3.94,70.0,1987.0,https://openlibrary.org/works/OL50548W
+fiction,A Room of One's Own,Virginia Woolf,4.15,26.0,1929.0,https://openlibrary.org/works/OL39379W
+fiction,Dubliners,James Joyce,3.87,77.0,1914.0,https://openlibrary.org/works/OL86320W
+fiction,The Riddle of the Sands,Erskine Childers,3.33,3.0,1903.0,https://openlibrary.org/works/OL23797W
+fiction,Kim,Rudyard Kipling,3.72,18.0,1901.0,https://openlibrary.org/works/OL19908W
+fiction,The Scarlet Pimpernel,"Emmuska Orczy, Baroness Orczy",3.94,18.0,1900.0,https://openlibrary.org/works/OL1253285W
+fiction,The Martian Chronicles,Ray Bradbury,4.09,105.0,1950.0,https://openlibrary.org/works/OL103134W
+fiction,Of Human Bondage,William Somerset Maugham,4.18,11.0,1915.0,https://openlibrary.org/works/OL505781W
+fiction,The Sign of Four,Arthur Conan Doyle,4.14,74.0,1889.0,https://openlibrary.org/works/OL262438W
+fiction,The First Men in the Moon,H. G. Wells,3.21,14.0,1900.0,https://openlibrary.org/works/OL52260W
+fiction,Fahrenheit 451,Ray Bradbury,3.97,412.0,1953.0,https://openlibrary.org/works/OL103123W
+fiction,The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,4.13,166.0,1892.0,https://openlibrary.org/works/OL262421W
+fiction,The Good Earth,"Pearl S. Buck, Nick Bertozzi, Ruth Goode, Donald F. Roden, Ernst Simon, Stephen Colbourn",3.91,22.0,1931.0,https://openlibrary.org/works/OL1140109W
+fiction,Poetics,"Aristotle, Leon Golden, O. B. Hardison",3.86,7.0,1536.0,https://openlibrary.org/works/OL13703833W
+fiction,White Fang,Jack London,3.88,59.0,1905.0,https://openlibrary.org/works/OL74504W
+fiction,"The Alchemist, 1612",Ben Jonson,4.19,27.0,1612.0,https://openlibrary.org/works/OL1085186W
+fiction,Anthem,Ayn Rand,3.45,49.0,1936.0,https://openlibrary.org/works/OL731737W
+fiction,The Secret Adversary,"Agatha Christie, Lazlo Ferran, Bill Peschel, Charles Keller, David Widger",3.78,32.0,1922.0,https://openlibrary.org/works/OL471789W
+fiction,Great Expectations,Charles Dickens,3.75,150.0,1861.0,https://openlibrary.org/works/OL8721462W
+fiction,The Red Badge of Courage,Stephen Crane,3.71,24.0,1855.0,https://openlibrary.org/works/OL20844W
+fiction,Robin Hood,Howard Pyle,4.29,14.0,1883.0,https://openlibrary.org/works/OL2021953W
+fiction,A Study in Scarlet,Arthur Conan Doyle,3.96,107.0,1887.0,https://openlibrary.org/works/OL262496W
+fiction,My Ántonia,Willa Cather,3.83,18.0,1918.0,https://openlibrary.org/works/OL12791W
+fiction,El túnel,Ernesto Sabato,4.03,32.0,1948.0,https://openlibrary.org/works/OL617847W
+fiction,The Return of Sherlock Holmes,Arthur Conan Doyle,4.27,33.0,1903.0,https://openlibrary.org/works/OL262477W
+fiction,The Kite Runner,Khaled Hosseini,4.09,122.0,2003.0,https://openlibrary.org/works/OL5781992W
+fiction,R.U.R. and The insect play,"Karel Čapek, Josef Čapek",3.75,8.0,1920.0,https://openlibrary.org/works/OL575625W
+fiction,Les Misérables,Victor Hugo,4.25,48.0,1862.0,https://openlibrary.org/works/OL1063588W
+fiction,La Poetica,Aristotle,3.67,12.0,1479.0,https://openlibrary.org/works/OL151515W
+fiction,The Sun Also Rises,Ernest Hemingway,3.73,26.0,1926.0,https://openlibrary.org/works/OL62979W
+fiction,His Last Bow [8 stories],Arthur Conan Doyle,4.14,29.0,1917.0,https://openlibrary.org/works/OL262452W
+fiction,The Call of the Wild,Jack London,3.92,74.0,1903.0,https://openlibrary.org/works/OL14942956W
+fiction,Middlemarch,George Eliot,4.12,25.0,1871.0,https://openlibrary.org/works/OL20867W
+fiction,Catch-22,Joseph Heller,4.1,193.0,1961.0,https://openlibrary.org/works/OL276798W
+fiction,The Bell Jar,Sylvia Plath,4.28,58.0,1963.0,https://openlibrary.org/works/OL1865528W
+fiction,The Tale of Peter Rabbit,"Beatrix Potter, Blackwell North America., Jean Little, David Hately, J. K. Jomkhwan, Lisa McCue",3.93,45.0,1920.0,https://openlibrary.org/works/OL26460746W
+fiction,The Lost Symbol,Dan Brown,3.6,95.0,2009.0,https://openlibrary.org/works/OL14873315W
+fiction,One Flew Over the Cuckoo's Nest,Ken Kesey,4.14,28.0,1962.0,https://openlibrary.org/works/OL2944469W
+fiction,The Hitch Hiker's Guide to the Galaxy,Douglas Adams,4.56,159.0,1979.0,https://openlibrary.org/works/OL2163649W
+fiction,"The Complete Sherlock Holmes [4 novels, 56 stories]",Arthur Conan Doyle,4.48,44.0,1900.0,https://openlibrary.org/works/OL262554W
+fiction,Ender's Game,Orson Scott Card,4.35,396.0,1985.0,https://openlibrary.org/works/OL49488W
+fiction,The Book Thief,Markus Zusak,4.18,132.0,1998.0,https://openlibrary.org/works/OL5819456W
+fiction,Cards on the Table,Agatha Christie,4.15,13.0,1936.0,https://openlibrary.org/works/OL471637W
+fiction,Memoirs of Sherlock Holmes [11 stories],Arthur Conan Doyle,4.4,20.0,1893.0,https://openlibrary.org/works/OL262463W
+fiction,Ulysses,"James Joyce, James Joyce, james joyce",3.38,16.0,1914.0,https://openlibrary.org/works/OL86318W
+fiction,To Kill a Mockingbird,Harper Lee,4.13,235.0,1960.0,https://openlibrary.org/works/OL3140822W
+non-fiction,We're All Puppets 2020,Non Fiction,,,2019.0,https://openlibrary.org/works/OL29773770W
+non-fiction,Pocket Gde to Sketching Lb,Non-Fiction,,,1986.0,https://openlibrary.org/works/OL259399W
+non-fiction,Gem Guide to London,Non-Fiction,,,1987.0,https://openlibrary.org/works/OL32347798W
+non-fiction,πολιτεία,Πλάτων,3.74,53.0,1554.0,https://openlibrary.org/works/OL51831W
+non-fiction,Meditations,Marcus Aurelius,4.02,127.0,1626.0,https://openlibrary.org/works/OL1317211W
+non-fiction,On The Road,"Jack Kerouac, Ann Charters, Julio Mario Santo Domingo Collection",3.52,81.0,1957.0,https://openlibrary.org/works/OL65906W
+non-fiction,The Red Pony,John Steinbeck,3.22,9.0,1933.0,https://openlibrary.org/works/OL23197W
+non-fiction,The Pearl,John Steinbeck,3.58,50.0,1945.0,https://openlibrary.org/works/OL7966118W
+non-fiction,Jude the Obscure,Thomas Hardy,3.91,11.0,1895.0,https://openlibrary.org/works/OL44986W
+non-fiction,Murder in Mesopotamia,"Agatha Christie, François Rivière, Chandre, Kappa Line",4.31,13.0,1936.0,https://openlibrary.org/works/OL472572W
+non-fiction,East of Eden,John Steinbeck,4.07,88.0,1952.0,https://openlibrary.org/works/OL23166W
+non-fiction,Casino Royale,Ian Fleming,3.51,35.0,1953.0,https://openlibrary.org/works/OL85753W
+non-fiction,The Murders in the Rue Morgue,Edgar Allan Poe,3.92,12.0,1895.0,https://openlibrary.org/works/OL41072W
+non-fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.95,130.0,1875.0,https://openlibrary.org/works/OL24156W
+non-fiction,The Grapes of Wrath,John Steinbeck,3.91,101.0,1939.0,https://openlibrary.org/works/OL23205W
+non-fiction,And Then There Were None,Agatha Christie,4.25,152.0,1939.0,https://openlibrary.org/works/OL471565W
+non-fiction,4:50 from Paddington,Agatha Christie,3.91,22.0,1957.0,https://openlibrary.org/works/OL471500W
+non-fiction,Little men,"Louisa May Alcott, Reed",3.62,16.0,1885.0,https://openlibrary.org/works/OL17761452W
+non-fiction,Finnegans Wake,James Joyce,3.58,12.0,1928.0,https://openlibrary.org/works/OL86319W
+non-fiction,The Thirty-Nine Steps,John Buchan,3.63,19.0,1915.0,https://openlibrary.org/works/OL76524W
+non-fiction,The Razor's Edge,William Somerset Maugham,4.0,22.0,1944.0,https://openlibrary.org/works/OL505944W
+non-fiction,Lord of the Flies,William Golding,3.67,372.0,1954.0,https://openlibrary.org/works/OL455327W
+non-fiction,Winnie-the-Pooh,A. A. Milne,4.18,60.0,1925.0,https://openlibrary.org/works/OL476641W
+non-fiction,The Jungle,Upton Sinclair,4.04,70.0,1707.0,https://openlibrary.org/works/OL114967W
+non-fiction,The Valley of Fear,Arthur Conan Doyle,4.0,22.0,1914.0,https://openlibrary.org/works/OL262505W
+non-fiction,The Old Curiosity Shop,Charles Dickens,3.75,4.0,1800.0,https://openlibrary.org/works/OL14869167W
+non-fiction,Die Verwandlung,Franz Kafka,4.1,132.0,1915.0,https://openlibrary.org/works/OL498556W
+non-fiction,Moby Dick,Herman Melville,3.88,162.0,1851.0,https://openlibrary.org/works/OL102749W
+non-fiction,The Hound of the Baskervilles,Arthur Conan Doyle,3.95,56.0,1900.0,https://openlibrary.org/works/OL262454W
+non-fiction,Three Men in a Boat (to say nothing of the dog),Jerome Klapka Jérôme,3.44,16.0,1889.0,https://openlibrary.org/works/OL1793164W
+non-fiction,Heart of Darkness,Joseph Conrad,3.53,124.0,1899.0,https://openlibrary.org/works/OL38663W
+non-fiction,A Christmas Carol,Charles Dickens,3.94,94.0,1843.0,https://openlibrary.org/works/OL8193497W
+non-fiction,The Canterbury Tales,"Geoffrey Chaucer, John E. Cunningham, Peter Ackroyd, Ted Stearn, V. A. Kolve, Glending Olson",3.26,31.0,1478.0,https://openlibrary.org/works/OL531767W
+non-fiction,The golden bough,"James George Frazer, Theodor Herzl Gaster, George W. Stocking",4.0,6.0,1890.0,https://openlibrary.org/works/OL1159648W
+non-fiction,कामसूत्र,Vatsyāyana,3.77,44.0,1883.0,https://openlibrary.org/works/OL239940W
+non-fiction,Narrative of the life of Frederick Douglass,Frederick Douglass,4.33,12.0,1845.0,https://openlibrary.org/works/OL69178W
+non-fiction,Metamorphoses,Ovid,4.28,18.0,1479.0,https://openlibrary.org/works/OL15292640W
+non-fiction,King Lear,William Shakespeare,4.06,16.0,1608.0,https://openlibrary.org/works/OL259026W
+non-fiction,Tao te Ching,"老子, James Legge, Gia-Fu Feng, Stacie Mallinson, Jeff Mallinson, Peter Kang, John Minford, Stephen Mitchell",4.26,50.0,1842.0,https://openlibrary.org/works/OL45499W
+non-fiction,Also sprach Zarathustra,Friedrich Nietzsche,3.62,8.0,1883.0,https://openlibrary.org/works/OL98130W
+non-fiction,Ab urbe condita,Titus Livius,4.29,7.0,1481.0,https://openlibrary.org/works/OL1261147W
+non-fiction,The Prince,Niccolò Machiavelli,3.84,98.0,1515.0,https://openlibrary.org/works/OL1089297W
+non-fiction,History,Herodotus,3.93,15.0,1494.0,https://openlibrary.org/works/OL15678068W
+non-fiction,Leaves of Grass,Walt Whitman,3.89,9.0,1855.0,https://openlibrary.org/works/OL16333W
+non-fiction,Leviathan,Thomas Hobbes,3.36,14.0,1651.0,https://openlibrary.org/works/OL653987W
+non-fiction,"One, Two, Buckle My Shoe",Agatha Christie,3.9,10.0,1940.0,https://openlibrary.org/works/OL471702W
+non-fiction,Cannery Row,John Steinbeck,4.35,31.0,1945.0,https://openlibrary.org/works/OL23199W
+non-fiction,Nonfiction,Chuck Palahniuk,,,2004.0,https://openlibrary.org/works/OL14926278W
+non-fiction,Non-fiction books,Michael Legat,,,1993.0,https://openlibrary.org/works/OL4013104W
+non-fiction,La sombra del viento,Carlos Ruiz Zafón,4.23,43.0,2001.0,https://openlibrary.org/works/OL278437W
+non-fiction,The Innocence of Father Brown (Father Brown Mystery),"Gilbert Keith Chesterton, Judith Boss, David Widger",3.91,11.0,1583.0,https://openlibrary.org/works/OL76341W
+non-fiction,Selected non-fictions,Jorge Luis Borges,4.0,1.0,1999.0,https://openlibrary.org/works/OL444890W
+non-fiction,Pack up and sketch,"Tom Robb, Non-Fiction",,,1986.0,https://openlibrary.org/works/OL2788941W
+non-fiction,Writing non-fiction,Stanley Vestal,5.0,1.0,1944.0,https://openlibrary.org/works/OL18476899W
+non-fiction,New Moon,Stephenie Meyer,4.01,68.0,2006.0,https://openlibrary.org/works/OL5720027W
+non-fiction,Death of a Salesman,Arthur Miller,3.87,67.0,1940.0,https://openlibrary.org/works/OL66346W
+non-fiction,Le Deuxième Sexe,Simone de Beauvoir,4.06,17.0,1949.0,https://openlibrary.org/works/OL767941W
+non-fiction,Divergent,Veronica Roth,3.95,194.0,2010.0,https://openlibrary.org/works/OL15719630W
+non-fiction,Bridget Jones's Diary,"Helen Fielding, Helen Fielding",3.56,52.0,1996.0,https://openlibrary.org/works/OL547745W
+non-fiction,"Intuition, non fiction ..",Zella B. Larkin,,,1946.0,https://openlibrary.org/works/OL7693627W
+non-fiction,The Moon is Down,John Steinbeck,4.18,11.0,1942.0,https://openlibrary.org/works/OL23200W
+non-fiction,Documentary,Erik Barnouw,,,1974.0,https://openlibrary.org/works/OL2953833W
+non-fiction,Non-fiction,Olʹga Tatarinova,,,2003.0,https://openlibrary.org/works/OL39018236W
+non-fiction,Our Man in Havana,"Graham Greene, graham greene",3.31,13.0,1958.0,https://openlibrary.org/works/OL106074W
+non-fiction,Tales from Shakespeare [20 tales],"Charles Lamb, Mary Lamb",4.0,3.0,1800.0,https://openlibrary.org/works/OL44841W
+history,A Study of History,"Arnold J. Toynbee, D.C Somervell",4.43,7.0,1900.0,https://openlibrary.org/works/OL1108523W
+history,The Enduring Vision,Paul S. Boyer,4.62,8.0,1987.0,https://openlibrary.org/works/OL2024851W
+history,A Brief History of Time,Stephen Hawking,4.12,221.0,1988.0,https://openlibrary.org/works/OL1892617W
+history,History of the Decline and Fall of the Roman Empire Complete and Unabridged,Edward Gibbon,4.5,8.0,1776.0,https://openlibrary.org/works/OL1285005W
+history,History of the Peloponnesian War,Thucydides,4.67,3.0,1526.0,https://openlibrary.org/works/OL16200353W
+history,Naturalis historia,Pliny the Elder,3.5,4.0,1469.0,https://openlibrary.org/works/OL1257866W
+history,David Copperfield,Charles Dickens,4.46,13.0,1800.0,https://openlibrary.org/works/OL8662242W
+history,Plays (36),William Shakespeare,3.57,21.0,1623.0,https://openlibrary.org/works/OL362289W
+history,Don Quijote de la Mancha,Miguel de Cervantes Saavedra,3.79,52.0,1600.0,https://openlibrary.org/works/OL503666W
+history,King Henry V,William Shakespeare,3.55,11.0,1600.0,https://openlibrary.org/works/OL361466W
+history,The history of the great plague in London in the year 1665,Daniel Defoe,3.33,3.0,1722.0,https://openlibrary.org/works/OL45109W
+history,Les Contes de ma mère l'Oye,Charles Perrault,4.0,2.0,1675.0,https://openlibrary.org/works/OL23869W
+history,A dictionary of the English language,Samuel Johnson,2.5,2.0,1747.0,https://openlibrary.org/works/OL14862662W
+history,Doctor Faustus,Christopher Marlowe,3.93,15.0,1662.0,https://openlibrary.org/works/OL45757W
+history,The book of tea,Okakura Kakuzo,4.25,12.0,1900.0,https://openlibrary.org/works/OL7095112W
+history,The Second World War,Winston S. Churchill,3.82,11.0,1948.0,https://openlibrary.org/works/OL134333W
+history,Manifest der Kommunistischen Partei,"Karl Marx, Friedrich Engels",3.58,76.0,1848.0,https://openlibrary.org/works/OL629052W
+history,Mémoires,Giacomo Casanova,3.29,24.0,1830.0,https://openlibrary.org/works/OL1156251W
+history,The Merchant of Venice,William Shakespeare,3.96,48.0,1600.0,https://openlibrary.org/works/OL258758W
+history,Up from Slavery,Booker T. Washington,4.33,9.0,1900.0,https://openlibrary.org/works/OL357501W
+history,The Problems of Philosophy,Bertrand Russell,3.4,5.0,1900.0,https://openlibrary.org/works/OL1088577W
+history,Bury My Heart at Wounded Knee,Dee Alexander Brown,3.76,25.0,1672.0,https://openlibrary.org/works/OL14864823W
+history,The History of Tom Jones,Henry Fielding,4.0,2.0,1749.0,https://openlibrary.org/works/OL45623W
+history,The Taming of the Shrew,William Shakespeare,3.28,32.0,1631.0,https://openlibrary.org/works/OL362690W
+history,The House of Mirth,Edith Wharton,4.07,14.0,1905.0,https://openlibrary.org/works/OL98587W
+history,The Souls of Black Folk,W. E. B. Du Bois,4.0,8.0,1903.0,https://openlibrary.org/works/OL28577W
+history,A Portrait of the Artist as a Young Man,James Joyce,3.31,36.0,1818.0,https://openlibrary.org/works/OL86343W
+history,Principles of Political Economy,John Stuart Mill,5.0,1.0,1848.0,https://openlibrary.org/works/OL1068184W
+history,"The life of Olaudah Equiano, or Gustavus Vassa, the African","Olaudah Equiano, Robert J. Allison, Rebecka Rutledge Fisher",4.25,4.0,1789.0,https://openlibrary.org/works/OL743333W
+history,The Autobiography of Benjamin Franklin,Benjamin Franklin,3.98,46.0,1791.0,https://openlibrary.org/works/OL26492W
+history,American notes,"Charles Dickens, Diana C. Archibald, Charles Dickens",,,1800.0,https://openlibrary.org/works/OL8300173W
+history,Candide,"Voltaire, William Fleming, Philip Littell, Jack Davenport",3.97,78.0,1746.0,https://openlibrary.org/works/OL100672W
+history,Sapiens,"Yuval Noah Harari, Daniel Casanave, David Vandermeulen, Pierre-Emmanuel Dauzat, Joandomènec Ros i Aragonès, Andoni Sagarna, Xabier Kintana, David Casanave",4.2,191.0,2011.0,https://openlibrary.org/works/OL17075811W
+history,Study Guide,SuperSummary,3.8,5.0,2019.0,https://openlibrary.org/works/OL21885963W
+history,All's Well That Ends Well,William Shakespeare,3.64,11.0,1734.0,https://openlibrary.org/works/OL362676W
+history,Συμπόσιον,Πλάτων,4.19,27.0,1559.0,https://openlibrary.org/works/OL51815W
+history,Macbeth,William Shakespeare,3.96,136.0,1508.0,https://openlibrary.org/works/OL258902W
+history,Robinson Crusoe,Daniel Defoe,4.06,18.0,1719.0,https://openlibrary.org/works/OL45310W
+history,Julius Caesar,William Shakespeare,3.57,54.0,1656.0,https://openlibrary.org/works/OL362702W
+history,Winter's Tale,William Shakespeare,3.33,12.0,1735.0,https://openlibrary.org/works/OL362687W
+history,Much Ado About Nothing,William Shakespeare,4.33,9.0,1600.0,https://openlibrary.org/works/OL362691W
+history,Max Ernst,"Max Ernst, Werner Spies, Fabrice Hergott, Doris Krystof, Günter Metken",3.5,2.0,1956.0,https://openlibrary.org/works/OL2248600W
+history,Antony and Cleopatra,William Shakespeare,3.4,10.0,1734.0,https://openlibrary.org/works/OL362695W
+history,Homage to Catalonia,George Orwell,4.23,26.0,1938.0,https://openlibrary.org/works/OL1168169W
+history,The Art of War,"孙武, Sun Tzu ",4.01,144.0,1900.0,https://openlibrary.org/works/OL244537W
+history,As You Like It,William Shakespeare,3.53,19.0,1734.0,https://openlibrary.org/works/OL362698W
+history,Summa Theologica,"Thomas Aquinas, Kennedy, Daniel Joseph, 1862-1930",4.44,9.0,1467.0,https://openlibrary.org/works/OL15314568W
+history,An autobiography,Mohandas Karamchand Gandhi,4.16,19.0,1927.0,https://openlibrary.org/works/OL298031W
+history,Twelfth Night,William Shakespeare,3.67,33.0,1734.0,https://openlibrary.org/works/OL362694W
+history,Uncle Tom's Cabin,Harriet Beecher Stowe,4.11,19.0,1850.0,https://openlibrary.org/works/OL152161W
+history,Walden,"Henry David Thoreau, Jedidiah Britton-purdy",3.91,33.0,1854.0,https://openlibrary.org/works/OL55649W
+history,Εὐθύφρων / Κρίτων / Φαίδων / Ἀπολογία Σωκράτους,Πλάτων,4.2,15.0,1871.0,https://openlibrary.org/works/OL51784W
+history,Twelve years a slave,Solomon Northup,4.44,9.0,1853.0,https://openlibrary.org/works/OL78871W
+history,Othello,William Shakespeare,3.78,41.0,1622.0,https://openlibrary.org/works/OL258850W
+history,The Travels of Marco Polo,Marco Polo,3.0,2.0,1818.0,https://openlibrary.org/works/OL15584860W
+history,A Vindication of Rights of Woman,Mary Wollstonecraft,3.38,8.0,1792.0,https://openlibrary.org/works/OL849186W
+history,Hiroshima,John Hersey,4.0,17.0,1702.0,https://openlibrary.org/works/OL2700123W
+history,Bible,Bible,3.95,74.0,1200.0,https://openlibrary.org/works/OL17732W
+history,Mein Kampf,Adolf Hitler,3.98,49.0,1922.0,https://openlibrary.org/works/OL1067314W
+history,La conquête du pain,Peter Kropotkin,4.07,14.0,1892.0,https://openlibrary.org/works/OL1105382W
+history,Il nome della rosa,Umberto Eco,4.14,110.0,1980.0,https://openlibrary.org/works/OL8996439W
+history,The Hunchback of Notre Dame,Victor Hugo,4.11,44.0,1831.0,https://openlibrary.org/works/OL15202030W
+history,The Daughter of Time,Josephine Tey,3.44,9.0,1951.0,https://openlibrary.org/works/OL80947W
+history,Incidents in the Life of a Slave Girl,Harriet A. Jacobs,4.0,8.0,1861.0,https://openlibrary.org/works/OL28623W
+biography,Flush,"Virginia Woolf, Eileen Atkins, Katyuli Lloyd, Jose KING, Jordi Fernando, Rafael Vázquez Zamora",3.0,4.0,1694.0,https://openlibrary.org/works/OL39320W
+biography,The Prophet,Kahlil Gibran,4.29,52.0,1900.0,https://openlibrary.org/works/OL318900W
+biography,A Mind That Found Itself,Clifford Whittingham Beers,3.5,4.0,1908.0,https://openlibrary.org/works/OL6322288W
+biography,Discours de la méthode,René Descartes,4.18,11.0,1644.0,https://openlibrary.org/works/OL1151518W
+biography,The Club of Queer Trades,Gilbert Keith Chesterton,3.23,13.0,1900.0,https://openlibrary.org/works/OL76325W
+biography,La père Goriot,Honoré de Balzac,4.11,9.0,1800.0,https://openlibrary.org/works/OL85047W
+biography,Mrs. Dalloway,Virginia Woolf,3.61,51.0,1925.0,https://openlibrary.org/works/OL39349W
+biography,Tuesdays with Morrie,Mitch Albom,3.85,80.0,1994.0,https://openlibrary.org/works/OL1822313W
+biography,Les fleurs du mal,Charles Baudelaire,4.18,11.0,1855.0,https://openlibrary.org/works/OL1158921W
+biography,... Trotzdem Ja zum Leben sagen,Viktor E. Frankl,4.26,198.0,1946.0,https://openlibrary.org/works/OL1268413W
+biography,Angela's Ashes,Frank McCourt,3.81,52.0,1709.0,https://openlibrary.org/works/OL27634W
+biography,Essais,"Montaigne, Michel de",3.75,4.0,1600.0,https://openlibrary.org/works/OL1086528W
+biography,Lives,Plutarch,2.83,6.0,1564.0,https://openlibrary.org/works/OL2521179W
+biography,Autobiography of a Yogi,Yogananda Paramahansa,4.19,43.0,1946.0,https://openlibrary.org/works/OL528094W
+biography,Oliver Twist,Charles Dickens,4.04,71.0,1822.0,https://openlibrary.org/works/OL8193478W
+biography,Les confessions,Jean-Jacques Rousseau,4.5,4.0,1782.0,https://openlibrary.org/works/OL80592W
+biography,Life on the Mississippi,Mark Twain,3.83,6.0,1883.0,https://openlibrary.org/works/OL53959W
+biography,Der Antichrist,Friedrich Nietzsche,3.75,20.0,1895.0,https://openlibrary.org/works/OL15692719W
+biography,Het Achterhuis,Anne Frank,4.18,124.0,1944.0,https://openlibrary.org/works/OL266178W
+biography,Good wives,Louisa May Alcott,3.67,6.0,1870.0,https://openlibrary.org/works/OL16894032W
+biography,Little House in the Big Woods,"Laura Ingalls Wilder, Garth Williams",3.96,53.0,1932.0,https://openlibrary.org/works/OL1719746W
+biography,Bambi,Felix Salten,3.58,12.0,1926.0,https://openlibrary.org/works/OL4459213W
+biography,"Arsène Lupin, gentleman-cambrioleur",Maurice Leblanc,4.0,1.0,1907.0,https://openlibrary.org/works/OL1064290W
+biography,Poems by John Keats,John Keats,4.2,5.0,1800.0,https://openlibrary.org/works/OL1455259W
+biography,"Tom Sawyer, Detective",Mark Twain,4.1,10.0,1897.0,https://openlibrary.org/works/OL54147W
+biography,Henry Moore,"David Sylvester, Henry Moore, J. Hedgecoe, Alan Bowness, Herbert Edward Read, Ann Garrould",4.39,18.0,1934.0,https://openlibrary.org/works/OL1001044W
+biography,John Donne Poetry,"John Donne, John Booty, P.G. Stanwood",4.67,6.0,1633.0,https://openlibrary.org/works/OL15420303W
+biography,The Story of Philosophy,Will Durant,4.0,16.0,1926.0,https://openlibrary.org/works/OL1073898W
+biography,Picasso,"Pablo Picasso, Jean-Louis Andral, Pierre Daix",3.91,22.0,1926.0,https://openlibrary.org/works/OL145191W
+biography,Das Schloß,Franz Kafka,4.55,22.0,1926.0,https://openlibrary.org/works/OL498434W
+biography,Moralia,Plutarch,4.2,15.0,1500.0,https://openlibrary.org/works/OL723491W
+biography,Vincent van Gogh,"Vincent van Gogh, Colta Ives, Sjraar van Heugten, Marije Vellekoop, Ingo F. Walther, Rainer Metzger, Louis van Tilborgh, Johannes von Uitert, Schapiro, Meyer",4.15,20.0,1914.0,https://openlibrary.org/works/OL518262W
+biography,Anne of Windy Poplars,Lucy Maud Montgomery,3.62,16.0,1900.0,https://openlibrary.org/works/OL77751W
+biography,The Pilgrim's Progress,John Bunyan,4.33,18.0,1678.0,https://openlibrary.org/works/OL107195W
+biography,Paradise Lost,John Milton,3.75,32.0,1667.0,https://openlibrary.org/works/OL810991W
+biography,Paul Klee,Paul Klee,3.73,15.0,1930.0,https://openlibrary.org/works/OL972930W
+biography,Sonnets,William Shakespeare,4.17,12.0,1609.0,https://openlibrary.org/works/OL362706W
+biography,The Jungle Book,Rudyard Kipling,4.03,34.0,1893.0,https://openlibrary.org/works/OL19870W
+biography,Anne's House of Dreams,Lucy Maud Montgomery,3.88,8.0,1917.0,https://openlibrary.org/works/OL77764W
+biography,Anne of the Island,Lucy Maud Montgomery,3.79,14.0,1826.0,https://openlibrary.org/works/OL77748W
+science,Chemistry,"Theodore L. Brown, H. Eugene Lemay, Bruce E. Bursten, Catherine Murphy, Patrick Woodward",4.38,37.0,1977.0,https://openlibrary.org/works/OL15130687W
+science,"The science of getting rich, or, financial success through creative thought","Wallace D. Wattles, Ruth L Miller, Patricia J. Crane, Rick Nichols",4.17,23.0,1910.0,https://openlibrary.org/works/OL3792044W
+science,Self-knowledge,John Mason,3.8,5.0,1745.0,https://openlibrary.org/works/OL6384123W
+science,Du contrat social,Jean-Jacques Rousseau,4.25,4.0,1762.0,https://openlibrary.org/works/OL80609W
+science,Die Traumdeutung,Sigmund Freud,3.87,15.0,1899.0,https://openlibrary.org/works/OL1069300W
+science,NASA/DoD aerospace knowledge diffusion research project,Thomas E. Pinelli,4.0,5.0,1990.0,https://openlibrary.org/works/OL8894965W
+science,Nicomachean Ethics,"Aristotle, J. A. Smith, Joe Sachs, Robert C. Bartlett, Susan D. Collins, L H. G. ed Greenwood",3.83,24.0,1558.0,https://openlibrary.org/works/OL8273964W
+science,On the Beach,Nevil Shute,3.75,8.0,1957.0,https://openlibrary.org/works/OL2779754W
+science,2001,Arthur C. Clarke,4.2,123.0,1968.0,https://openlibrary.org/works/OL17365W
+science,Principles of Anatomy and Physiology,"Gerard J. Tortora, Bryan H. Derrickson, Brendan Burkett, Danielle Dye, Julie Cooke, HOUGHTON MIFFLIN HARCOURT, Gregory Peoples, Tara Diversi, Mark McKean, Latika Samalia, Rebecca Mellifont, Richard G. Smith undifferentiated, Gerald J. Tortura, Sandra R. Grabowski, Tortora, Sandra Reynolds Grabowski",3.38,21.0,1975.0,https://openlibrary.org/works/OL1827306W
+science,The book of the damned,"Charles Fort, Charles Fort",4.0,2.0,1919.0,https://openlibrary.org/works/OL66059W
+science,Dell'Arte della Guerra,Niccolò Machiavelli,3.67,6.0,1540.0,https://openlibrary.org/works/OL15968W
+science,De rerum natura,Titus Lucretius Carus,3.8,15.0,1486.0,https://openlibrary.org/works/OL1548597W
+science,Πολιτικά (Politiká),Aristotle,3.71,14.0,1492.0,https://openlibrary.org/works/OL16247898W
+science,The food of the gods and how it came to earth,H. G. Wells,3.2,10.0,1900.0,https://openlibrary.org/works/OL52195W
+science,Brave New World,Aldous Huxley,3.97,441.0,1932.0,https://openlibrary.org/works/OL64365W
+science,De la terre à la lune,Jules Verne,3.96,26.0,1865.0,https://openlibrary.org/works/OL1099479W
+science,Vom Kriege,"Carl von Clausewitz, F. N. Maude, James John Graham",3.56,9.0,1835.0,https://openlibrary.org/works/OL62744W
+science,The Kybalion,Three Initiates,4.67,6.0,1912.0,https://openlibrary.org/works/OL20156281W
+science,It Can't Happen Here,Sinclair Lewis,3.74,19.0,1935.0,https://openlibrary.org/works/OL51145W
+science,Common Sense,Thomas Paine,4.1,10.0,1776.0,https://openlibrary.org/works/OL60358W
+science,Das Kapital,Karl Marx,4.48,23.0,1867.0,https://openlibrary.org/works/OL628450W
+science,A Doll's House,Henrik Ibsen,4.0,8.0,1889.0,https://openlibrary.org/works/OL16249343W
+science,Über die spezielle und die allgemeine Relativitätstheorie,Albert Einstein,4.33,18.0,1917.0,https://openlibrary.org/works/OL1214190W
+science,Goodnight Moon,Margaret Wise Brown,4.11,66.0,1947.0,https://openlibrary.org/works/OL151798W
+science,Carrie,Stephen King,3.98,157.0,1974.0,https://openlibrary.org/works/OL81626W
+science,Der Zauberberg,Thomas Mann,4.23,13.0,1924.0,https://openlibrary.org/works/OL14866824W
+science,Die protestantische Ethik und der Geist des Kapitalismus,"Max Weber, Gilbert Geis, Sebastian Guzman, James Hill, Joaquín Abellán García, Đặng Thị Nguyệt Ánh, Le Minh Ton, Tôn Lê Minh, Talcott Parsons, Benito Romero, Suzanne Barbeau, Jacques Chavy, Piero Burresi, Isabelle Kalinowski, Luis Legaz Lacambra",3.67,6.0,1700.0,https://openlibrary.org/works/OL1362905W
+science,On the origin of species by means of natural selection,Charles Darwin,4.29,24.0,1859.0,https://openlibrary.org/works/OL515051W
+science,The Varieties of Religious Experience,"William James, Dr. William James, WILLIAM JAMES, James, William, William James, CrossReach Publications, James William",3.2,5.0,1817.0,https://openlibrary.org/works/OL1073561W
+science,As a man thinketh,James Allen,4.66,32.0,1902.0,https://openlibrary.org/works/OL43024W
+science,Бѣсы,Фёдор Михайлович Достоевский,3.67,3.0,1871.0,https://openlibrary.org/works/OL166971W
+science,The Murder of Roger Ackroyd,"Agatha Christie, Antonio Campos, Philip Grecian, Lirienne Barjavel, Mark Shanahan",4.19,68.0,1926.0,https://openlibrary.org/works/OL471932W
+science,"[William Wheeler Hubbell, authorized to apply for patents.]",United States. Congress. Senate. Committee on Patents,3.25,12.0,1858.0,https://openlibrary.org/works/OL7574091W
+science,The Iron Heel,Jack London,3.5,20.0,1907.0,https://openlibrary.org/works/OL74502W
+science,On Liberty,John Stuart Mill,3.9,10.0,1859.0,https://openlibrary.org/works/OL1068091W
+humour,A Murder Is Announced,Agatha Christie,4.24,21.0,1950.0,https://openlibrary.org/works/OL471771W
+humour,A Caribbean Mystery,"Agatha Christie, Christie",4.0,10.0,1964.0,https://openlibrary.org/works/OL472458W
+humour,The Body in the Library,Agatha Christie,3.85,20.0,1942.0,https://openlibrary.org/works/OL471610W
+humour,The Murder at the Vicarage,Agatha Christie,4.14,28.0,1930.0,https://openlibrary.org/works/OL471895W
+humour,The A.B.C. Murders,Agatha Christie,4.07,57.0,1936.0,https://openlibrary.org/works/OL471509W
+humour,The Devil's Dictionary,Ambrose Bierce,4.2,10.0,1840.0,https://openlibrary.org/works/OL7973273W
+humour,Murder on the Orient Express,"Agatha Christie, Fiona Beddall, Hillary Evans, Luke Davis, Alessia Rossi, Olivia Lander, Lirienne Barjavel",4.09,109.0,1933.0,https://openlibrary.org/works/OL471576W
+humour,George's Marvelous Medicine,Roald Dahl,3.61,46.0,1981.0,https://openlibrary.org/works/OL45866W
+humour,The Colour of Magic,Terry Pratchett,3.96,143.0,1983.0,https://openlibrary.org/works/OL453657W
+humour,Tales of Terror and Mystery,Arthur Conan Doyle,,,1963.0,https://openlibrary.org/works/OL262586W
+humour,King Henry IV. Part 1,William Shakespeare,4.0,9.0,1598.0,https://openlibrary.org/works/OL1348798W
+humour,"The Secret Diary of Adrian Mole, Aged 13 3/4",Sue Townsend,3.25,8.0,1982.0,https://openlibrary.org/works/OL549598W
+humour,King Henry IV. Part 2,William Shakespeare,4.0,5.0,1600.0,https://openlibrary.org/works/OL362697W
+humour,The Miserable Mill,Lemony Snicket,3.89,36.0,2000.0,https://openlibrary.org/works/OL15104047W
+humour,Every man in his humour,Ben Jonson,,,1601.0,https://openlibrary.org/works/OL1085432W
+humour,Erewhon,Samuel Butler,2.5,4.0,1700.0,https://openlibrary.org/works/OL22364W
+humour,The Austere Academy,"Lemony Snicket, Brett Helquist, Michael Kupperman",4.13,39.0,2000.0,https://openlibrary.org/works/OL15104126W
+humour,The Ersatz Elevator,"Lemony Snicket, Brett Helquist, Michael Kupperman, Veronica Canales",4.06,32.0,2001.0,https://openlibrary.org/works/OL15104128W
+humour,Dirk Gently’s Holistic Detective Agency,Douglas Adams,4.0,38.0,1987.0,https://openlibrary.org/works/OL2163628W
+humour,An Abundance of Katherines,John Green,3.71,31.0,2006.0,https://openlibrary.org/works/OL2130549W
+humour,A history of New York,Washington Irving,5.0,1.0,1800.0,https://openlibrary.org/works/OL63871W
+humour,Tom Sawyer Abroad,Mark Twain,3.25,4.0,1894.0,https://openlibrary.org/works/OL413674W
+humour,Down Under (In a Sunburned Country),Bill Bryson,3.79,14.0,2000.0,https://openlibrary.org/works/OL74115W
+humour,Headlong Hall,Thomas Love Peacock,3.0,12.0,1816.0,https://openlibrary.org/works/OL2713466W
+humour,The Vile Village,"Lemony Snicket, Brett Helquist, Michael Kupperman",4.29,35.0,2001.0,https://openlibrary.org/works/OL15104130W
+humour,The Merry Wives of Windsor,William Shakespeare,3.0,3.0,1602.0,https://openlibrary.org/works/OL361595W
+humour,The Salmon of Doubt,Douglas Adams,3.79,29.0,1995.0,https://openlibrary.org/works/OL2163715W
+humour,Castle in the Air,Diana Wynne Jones,3.58,19.0,1990.0,https://openlibrary.org/works/OL60141W
+humour,Castle Rackrent,"Maria Edgeworth, Richard Lovell Edgeworth",3.5,2.0,1800.0,https://openlibrary.org/works/OL1124049W
+humour,Slippery Slope,"Lemony Snicket, Brett Helquist, Rose-Marie Vassallo",4.16,31.0,2003.0,https://openlibrary.org/works/OL27423194W
+humour,A Tangled Tale,Lewis Carroll,5.0,1.0,1881.0,https://openlibrary.org/works/OL151445W
+humour,The Hostile Hospital,"Lemony Snicket, Brett Helquist, Michael Kupperman",4.07,27.0,2001.0,https://openlibrary.org/works/OL15104028W
+humour,Diary of a provincial lady,"E. M. Delafield, Jilly Cooper, Edmée Elizabeth Dashwood",4.67,3.0,1930.0,https://openlibrary.org/works/OL4458124W
+humour,Kenilworth,Sir Walter Scott,3.67,6.0,1800.0,https://openlibrary.org/works/OL863804W
+humour,The Zombie Survival Guide,Max Brooks,3.89,27.0,2003.0,https://openlibrary.org/works/OL5969056W
+humour,Less,Andrew Sean Greer,3.75,8.0,2017.0,https://openlibrary.org/works/OL19710804W
+humour,The Complete Adventures of Charlie and Willy Wonka (Charlie and the Chocolate Factory / Charlie and the Great Glass Elevator),Roald Dahl,3.43,7.0,1978.0,https://openlibrary.org/works/OL45843W
+humour,"Teach Us, Amelia Bedelia","Peggy Parish, Lynn Sweat",3.75,20.0,1977.0,https://openlibrary.org/works/OL1932956W
+humour,Il Segreto Della Famiglia Tenebrax,"Elisabetta Dami, Koldo Biguri, Manuel Manzano, David Nel·lo",4.62,13.0,2002.0,https://openlibrary.org/works/OL8115834W
+humour,Carnet de Notes,Cool Secret Carnets,,,2019.0,https://openlibrary.org/works/OL21904808W
+humour,La città segreta,Elisabetta Dami,4.91,11.0,2006.0,https://openlibrary.org/works/OL16182868W
+humour,Carnet de Notes,Cool Carnets,,,2019.0,https://openlibrary.org/works/OL21927517W
+humour,The American Claimant,Mark Twain,4.0,1.0,1881.0,https://openlibrary.org/works/OL54153W
+humour,"Novels (Hitch Hiker's Guide to the Galaxy / Restaurant at the End of the Universe / Life, the Universe and Everything / So Long, and Thanks for All the Fish)",Douglas Adams,4.0,23.0,1979.0,https://openlibrary.org/works/OL2163690W
+humour,Nonsense novels,"Stephen Leacock, Stephen Leacock, . Stephen",,,1900.0,https://openlibrary.org/works/OL626369W
+humour,Il segreto del castello scozzese,Elisabetta Dami,4.29,7.0,2009.0,https://openlibrary.org/works/OL17483021W
+humour,The Psychopath Test,Jon Ronson,3.79,33.0,2011.0,https://openlibrary.org/works/OL16795887W
+humour,Literary Lapses [42 Stories],Stephen Leacock,3.5,2.0,1900.0,https://openlibrary.org/works/OL626474W
+humour,The Bad Guys,Aaron Blabey,4.45,20.0,2016.0,https://openlibrary.org/works/OL17608056W
+humour,The Shepherd's Crown,"Terry Pratchett, Manuel Viciano Delibano, Paul Kidby, Laura Ellen Andersen",4.21,14.0,2015.0,https://openlibrary.org/works/OL17321009W
+humour,"Works (Hitch Hiker's Guide to the Galaxy / Restaurant at the End of the Universe / Life, the Universe and Everything / So Long, and Thanks for All the Fish / Mostly Harmless / Young Zaphod Plays it Safe)",Douglas Adams,4.41,104.0,1996.0,https://openlibrary.org/works/OL2163706W
+humour,The Worst Witch (The Worst Witch #1),Jill Murphy,3.0,8.0,1974.0,https://openlibrary.org/works/OL496118W
+humour,The Second Thoughts of an Idle Fellow,Jerome Klapka Jérôme,4.0,1.0,1898.0,https://openlibrary.org/works/OL1793237W
+humour,Carnet de Notes,Michael Ginger,,,2021.0,https://openlibrary.org/works/OL25469262W
+humour,Stink and the World's Worst Super-Stinky Sneakers,Megan McDonald,4.75,4.0,2007.0,https://openlibrary.org/works/OL443629W
+humour,New Kid,Jerry Craft,3.75,16.0,2019.0,https://openlibrary.org/works/OL20152649W
+humour,Frenzied fiction,Stephen Leacock,5.0,1.0,1917.0,https://openlibrary.org/works/OL626472W
+humour,Lies In a Mirror,Peter Charleton,3.33,3.0,2006.0,https://openlibrary.org/works/OL3985538W
+humour,Poems by Thomas Hood,Thomas Hood,,,1800.0,https://openlibrary.org/works/OL3408882W
+humour,"Works (The Hitch Hiker's Guide to the Galaxy / The Restaurant at the End of the Universe / Life, the Universe and Everything / So Long, and Thanks for All the Fish / Young Zaphod Plays it Safe)",Douglas Adams,4.0,3.0,1986.0,https://openlibrary.org/works/OL2163713W
+humour,Rabbit hill,Robert Lawson,4.5,6.0,1944.0,https://openlibrary.org/works/OL4234959W
+humour,The Humans,Matt Haig,3.58,12.0,2013.0,https://openlibrary.org/works/OL16805374W
+humour,"1066 and all that  A memorable history of England comprising all the parts you can remember including 103 good things, 5 bad kings and 2 genuine dates","Walter Carruthers Sellar, Yeatman R J Sellar W C, R J Sellar W C and Yeatman, W.C. Sellar & R.J. Yeatman, Walter Carruthers Sellar;  Robert Julian Yeatman;  Illustrator  John Reyno, Walter Carruthers and Robert Julian Yeatman Sellar, Sellar, W.C. & Yeatman, R.J., W.C.Sellar & R.J.Yeatman, Walter Carruthers and Yeatman Robert Julian Sellar, VARIOUS, W.C. Sellar and R.J. Yeatman, walter carruthers sellar, Walter Carruthers Sellar,and Robert Julian Yeatman , W.C Sellar & R.J Yeatman , Walter Carruthers Sellars, Robert Julian Yeatman, John Reynold, various, Sellar, W.C.; Yeatman, R.J., Sellar, Walter Carruthers; Yeatman, Robert Julian, R.J. Yeatman W.C. Sellar, Sellar, Walter Carruthers & Yeatman, Robert Julian, Robert Julian Yeatman Walter Carruthers Sellar, Robert SELLAR,Walter Carruthers and Yeatman, W. C. Sellar, Yeath Sellar, Robert Julian Yeatman, Walter Carruthers Sellar, W. C. Sellar & R. J. Yeatman",,,1930.0,https://openlibrary.org/works/OL8088829W
+humour,Awful Auntie,"David Walliams, Ricard Gil Giner;",3.71,7.0,1959.0,https://openlibrary.org/works/OL20801463W
+humour,Sunshine sketches of a little town,Stephen Leacock,4.5,2.0,1900.0,https://openlibrary.org/works/OL626383W
+humour,Arcadian adventures with the idle rich,Stephen Leacock,,,1914.0,https://openlibrary.org/works/OL626471W
+humour,Wilt,Tom Sharpe,4.0,4.0,1976.0,https://openlibrary.org/works/OL32045W
+humour,Disney's The jungle book,Rudyard Kipling,4.33,3.0,1967.0,https://openlibrary.org/works/OL15127157W
+humour,English humour,J. B. Priestley,,,1799.0,https://openlibrary.org/works/OL240523W
+humour,Big Nate - The Crowd Goes Wild!,Lincoln Peirce,4.0,4.0,2014.0,https://openlibrary.org/works/OL19985138W
+humour,Furiously Happy,Jenny Lawson,3.7,20.0,2015.0,https://openlibrary.org/works/OL17358376W
+humour,Something Fresh,P. G. Wodehouse,4.0,4.0,1915.0,https://openlibrary.org/works/OL286548W
+humour,Little Citizens,Myra Kelly,,,1904.0,https://openlibrary.org/works/OL5197877W
+humour,Anthologie de L'Humour Noir,"André Breton, Mark Polizzotti",,,1940.0,https://openlibrary.org/works/OL7986743W
+humour,Sam & Dave Dig a Hole,Mac Barnett,4.6,5.0,2014.0,https://openlibrary.org/works/OL17095332W
+humour,"Carry On, Jeeves",P. G. Wodehouse,4.0,7.0,1925.0,https://openlibrary.org/works/OL286581W
+humour,Tom Gates,Liz Pichon,4.75,4.0,2012.0,https://openlibrary.org/works/OL24303233W
+humour,Lancashire humour,Thomas Newbigging,,,1900.0,https://openlibrary.org/works/OL6913290W
+humour,The Captain Underpants Extra-Crunchy Book O Fun,Dav Pilkey,4.75,4.0,2001.0,https://openlibrary.org/works/OL14871249W
+humour,The sense of humour,Stephen Potter,,,1954.0,https://openlibrary.org/works/OL170817W
+humour,My Uncle Oswald,Roald Dahl,3.62,8.0,1979.0,https://openlibrary.org/works/OL45871W
+humour,L' Humour,"Escarpit, Robert",,,1963.0,https://openlibrary.org/works/OL3757711W
+humour,Taking humour seriously,"Jerry Palmer, Jerry Palmer, Palmer, Jerry.",,,1993.0,https://openlibrary.org/works/OL3919196W
+humour,Humour and counter humour,,,,,https://openlibrary.org/works/OL18217680W
+humour,L' humour,Robert Escarpit,1.0,1.0,1960.0,https://openlibrary.org/works/OL9512752W
+humour,"Humour, humour",Roger Paré,,,1967.0,https://openlibrary.org/works/OL12963630W
+humour,Humour-S,C. C. A. Imago,,,2016.0,https://openlibrary.org/works/OL38169021W
+humour,Humours of golf,W. Heath Robinson,,,1923.0,https://openlibrary.org/works/OL4279533W
+humour,L' humour,R. Escarpit,,,1967.0,https://openlibrary.org/works/OL12362679W
+humour,Japanese humour,Marguerite Wells,,,1997.0,https://openlibrary.org/works/OL2981514W
+humour,Ben Jonson,Ben Jonson,4.0,1.0,1631.0,https://openlibrary.org/works/OL1085431W
+humour,Humour,"Lahcen Ouasmi, Nadia Ouachene, Latifa Idrissi",,,2017.0,https://openlibrary.org/works/OL32586276W
+humour,Gallows humour,Jack Richardson,,,1961.0,https://openlibrary.org/works/OL12936748W
+humour,The Far Side Gallery 5,Gary Larson,4.75,4.0,1982.0,https://openlibrary.org/works/OL1848085W
+humour,Humour,Terry Eagleton,4.0,1.0,2019.0,https://openlibrary.org/works/OL20516557W
+humour,Best of Humour,Rewa Mirpuri,,,1992.0,https://openlibrary.org/works/OL9146406W
+humour,The Diaries of Adam and Eve (Extracts from Adam's Diary / Eve's Diary),Mark Twain,3.5,2.0,1953.0,https://openlibrary.org/works/OL53931W
+humour,L'Humour,,,,1991.0,https://openlibrary.org/works/OL23475489W
+humour,Animal humour,A. Margaux,,,1917.0,https://openlibrary.org/works/OL13253854W
+humour,Oriental humour,Reginald Horace Blyth,,,1959.0,https://openlibrary.org/works/OL1290161W
+humour,Toilet humour,Andrea Todd,,,1995.0,https://openlibrary.org/works/OL12211511W
+humour,Gallows humour,Harry Holm,,,2004.0,https://openlibrary.org/works/OL11731449W
+humour,Humour,Giancarlo Ascari,,,1993.0,https://openlibrary.org/works/OL19012012W
+humour,Humour québécois,Lucie Joubert,,,2007.0,https://openlibrary.org/works/OL19115026W
+humour,Mrs. Fisher,Robert Graves,,,1928.0,https://openlibrary.org/works/OL5036939W
+memoir,Mémoires d'Hadrien,Marguerite Yourcenar,3.43,7.0,1951.0,https://openlibrary.org/works/OL106837W
+memoir,Kidnapped,Robert Louis Stevenson,3.62,16.0,1886.0,https://openlibrary.org/works/OL24166W
+memoir,Elephants Can Remember,Agatha Christie,4.09,11.0,1969.0,https://openlibrary.org/works/OL471776W
+memoir,Memoirs of a Geisha,"Arthur Golden, Arthur Golden, Arthur Golden",3.96,84.0,1997.0,https://openlibrary.org/works/OL1856675W
+memoir,Poems,William Wordsworth,3.75,8.0,1807.0,https://openlibrary.org/works/OL26386W
+memoir,John Barleycorn,Jack London,4.8,5.0,1913.0,https://openlibrary.org/works/OL144798W
+memoir,The House of the Dead,Фёдор Михайлович Достоевский,4.4,5.0,1881.0,https://openlibrary.org/works/OL166970W
+memoir,Cranford,Elizabeth Cleghorn Gaskell,4.0,11.0,1853.0,https://openlibrary.org/works/OL1103093W
+memoir,The works of Washington Irving,Washington Irving,4.0,2.0,1800.0,https://openlibrary.org/works/OL63910W
+memoir,Pensées,"Blaise Pascal, Philippe Sellier, William Finlayson Trotter, T. S. Eliot, Blaise Perier, Margival Henri, H. F. Stewart",4.0,4.0,1670.0,https://openlibrary.org/works/OL1262495W
+memoir,Essays,Francis Bacon,3.64,11.0,1618.0,https://openlibrary.org/works/OL69382W
+memoir,"Ramayana, a Holy Bible of India","Vālmīki, Robert P. Goldman, Rosalind Lefeber, Sheldon I. Pollock",4.24,17.0,1823.0,https://openlibrary.org/works/OL308980W
+memoir,Paula,Isabel Allende,3.75,4.0,1994.0,https://openlibrary.org/works/OL1905373W
+memoir,Poems,William Blake,4.25,4.0,1783.0,https://openlibrary.org/works/OL575443W
+memoir,On Writing,Stephen King,4.14,79.0,1999.0,https://openlibrary.org/works/OL81601W
+memoir,Mémoires d'une jeune fille rangée,Simone de Beauvoir,2.83,6.0,1900.0,https://openlibrary.org/works/OL260382W
+memoir,The complete poetical works,Robert Burns,4.0,2.0,1786.0,https://openlibrary.org/works/OL766052W
+memoir,Saint Francis of Assisi,"Gilbert Keith Chesterton, Doyle Kim, Chesterton Books Staff, S. C. G. Jerome",3.5,2.0,1923.0,https://openlibrary.org/works/OL76399W
+memoir,"Maria; or, The Wrongs of Woman","Mary Wollstonecraft, William Godwin",,,1799.0,https://openlibrary.org/works/OL849217W
+memoir,Satyricon,Petronius,3.78,9.0,1575.0,https://openlibrary.org/works/OL503861W
+memoir,Milton's Poems,John Milton,3.43,7.0,1605.0,https://openlibrary.org/works/OL810990W
+memoir,Agnes Grey,Anne Brontë,4.15,13.0,1847.0,https://openlibrary.org/works/OL2462427W
+memoir,Domestic medicine,"William Buchan M.D., William Nisbet",5.0,1.0,1769.0,https://openlibrary.org/works/OL3715685W
+memoir,Poems,Percy Bysshe Shelley,3.5,2.0,1800.0,https://openlibrary.org/works/OL14853463W
+memoir,My Secret Life,"Walter, Anonymous",4.8,5.0,1966.0,https://openlibrary.org/works/OL264676W
+memoir,"Speak, Memory","Vladimir Nabokov, Vladimir Nabokov",3.75,4.0,1951.0,https://openlibrary.org/works/OL627083W
+memoir,The lady of the lake,Sir Walter Scott,3.64,11.0,1800.0,https://openlibrary.org/works/OL863809W
+memoir,La Nuit,Elie Wiesel,4.34,38.0,1955.0,https://openlibrary.org/works/OL14856842W
+memoir,The Mysteries of Udolpho,Ann Radcliffe,3.33,3.0,1794.0,https://openlibrary.org/works/OL695211W
+memoir,Memorabilia,Xenophon,3.32,19.0,1650.0,https://openlibrary.org/works/OL687223W
+memoir,Moll Flanders,Daniel Defoe,3.75,4.0,1722.0,https://openlibrary.org/works/OL45139W
+memoir,Poems,Samuel Taylor Coleridge,3.33,3.0,1796.0,https://openlibrary.org/works/OL26131W
+memoir,Visage volé,"Latifa, Chekeba Hachemi, Mercè Ubach Dorca",2.1,10.0,2001.0,https://openlibrary.org/works/OL5798945W
+memoir,Down and Out in Paris and London,George Orwell,4.12,24.0,1933.0,https://openlibrary.org/works/OL1168030W
+memoir,Autobiography,John Stuart Mill,4.0,4.0,1873.0,https://openlibrary.org/works/OL1068072W
+memoir,"Eat, Pray, Love",Elizabeth Gilbert,3.51,41.0,2001.0,https://openlibrary.org/works/OL41815W
+memoir,Maus I,Art Spiegelman,4.5,149.0,1986.0,https://openlibrary.org/works/OL2056818W
+memoir,Comus,John Milton,3.28,18.0,1738.0,https://openlibrary.org/works/OL810989W
+memoir,Wild Swans,Jung Chang,4.44,9.0,1991.0,https://openlibrary.org/works/OL15845961W
+memoir,Educated,Tara Westover,4.56,18.0,2018.0,https://openlibrary.org/works/OL18139176W
+memoir,The Glass Castle,Jeannette Walls,4.38,48.0,2005.0,https://openlibrary.org/works/OL46760W
+memoir,Poems,Elizabeth Barrett Browning,4.0,1.0,1844.0,https://openlibrary.org/works/OL1198483W
+memoir,The poetical works of Sir Walter Scott,Sir Walter Scott,3.86,14.0,1800.0,https://openlibrary.org/works/OL863810W
+memoir,Memoirs of a Revolutionist,Peter Kropotkin,5.0,1.0,1899.0,https://openlibrary.org/works/OL1105384W
+memoir,A Long Way Gone,Ishmael Beah,4.11,35.0,2007.0,https://openlibrary.org/works/OL8034119W
+memoir,Wasted,Marya Hornbacher,4.43,7.0,1998.0,https://openlibrary.org/works/OL2679254W
+memoir,Going Solo,Roald Dahl,4.12,16.0,1986.0,https://openlibrary.org/works/OL45875W
+memoir,De l'esprit des lois,Charles-Louis de Secondat baron de La Brède et de Montesquieu,3.5,2.0,1748.0,https://openlibrary.org/works/OL453554W
+memoir,Poems,William Cowper,3.6,15.0,1782.0,https://openlibrary.org/works/OL1114694W
+memoir,A princess remembers,"Gayatri Devi, Santha Rama Rau",2.8,5.0,1976.0,https://openlibrary.org/works/OL3217399W
+memoir,Darkness Visible,William Styron,3.75,8.0,1990.0,https://openlibrary.org/works/OL86538W
+memoir,Wieland,Charles Brockden Brown,5.0,1.0,1798.0,https://openlibrary.org/works/OL1501978W
+memoir,The Liars' Club,Mary Karr,4.22,9.0,1995.0,https://openlibrary.org/works/OL2745581W
+memoir,Kommandant in Auschwitz,Rudolf Höss,5.0,2.0,1956.0,https://openlibrary.org/works/OL2969387W
+memoir,Two years before the mast,Richard Henry Dana,4.33,9.0,1000.0,https://openlibrary.org/works/OL1815550W
+memoir,Shoe Dog,Phil Knight,4.54,46.0,2016.0,https://openlibrary.org/works/OL17825802W
+memoir,River's End,Nora Roberts,3.29,7.0,1999.0,https://openlibrary.org/works/OL111471W
+memoir,Hillbilly Elegy,J. D. Vance,3.71,41.0,2016.0,https://openlibrary.org/works/OL17357665W
+memoir,A stolen life,Jaycee Lee Dugard,3.64,11.0,2011.0,https://openlibrary.org/works/OL15951491W
+memoir,Gender Queer,Maia Kobabe,4.07,28.0,2019.0,https://openlibrary.org/works/OL21337755W
+memoir,The woman warrior,Maxine Hong Kingston,3.78,9.0,1976.0,https://openlibrary.org/works/OL1822441W
+memoir,Go Ask Alice,Beatrice Sparks,3.65,48.0,1971.0,https://openlibrary.org/works/OL264729W
+memoir,Aus meinem Leben,Johann Wolfgang von Goethe,3.0,8.0,1800.0,https://openlibrary.org/works/OL52470W
+memoir,The works of Horace,Horace,3.45,11.0,1681.0,https://openlibrary.org/works/OL88218W
+memoir,Melmoth the Wanderer,Charles Robert Maturin,4.5,2.0,1820.0,https://openlibrary.org/works/OL2458892W
+memoir,A Piece of Cake,Cupcake Brown,5.0,8.0,2005.0,https://openlibrary.org/works/OL5823995W
+memoir,Running with Scissors,Augusten Burroughs,3.56,16.0,2002.0,https://openlibrary.org/works/OL5728455W
+memoir,Thirteen days,Robert F. Kennedy,4.67,3.0,1969.0,https://openlibrary.org/works/OL2011065W
+memoir,La dame aux camélias [novel],Alexandre Dumas fils,4.25,4.0,1848.0,https://openlibrary.org/works/OL259509W
+memoir,The Newcomes,William Makepeace Thackeray,4.0,1.0,1853.0,https://openlibrary.org/works/OL16312W
+memoir,Diarios de Motocicleta,"Che Guevara, Ann Wright, Ernesto; Wright, Ann (translator) Guevara, Aleida Guevara, Walter Salles, Cintio Vitier",3.36,11.0,1993.0,https://openlibrary.org/works/OL63457W
+memoir,"The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)","James Hogg, Ian Rankin, Wain, John.",3.67,3.0,1824.0,https://openlibrary.org/works/OL240077W
+memoir,Unfinished,Priyanka Chopra Jonas,4.0,2.0,2021.0,https://openlibrary.org/works/OL24206176W
+memoir,Stone Butch Blues,Leslie Feinberg,4.61,23.0,1993.0,https://openlibrary.org/works/OL1868110W
+memoir,Meḿoires de guerre,"Charles de Gaulle, 北京编译社",,,1940.0,https://openlibrary.org/works/OL1189893W
+memoir,Manon Lescaut,"Abbé Prévost, F. C. Green, felix crespo, Pr&eacute",4.0,4.0,1734.0,https://openlibrary.org/works/OL1132652W
+memoir,The Song of Hiawatha and Other Poems,Henry Wadsworth Longfellow,3.8,5.0,1800.0,https://openlibrary.org/works/OL495934W
+memoir,Crying in H Mart,Michelle Zauner,3.82,22.0,2021.0,https://openlibrary.org/works/OL22448002W
+memoir,Finding Me,Viola Davis,3.78,9.0,2022.0,https://openlibrary.org/works/OL25988701W
+memoir,Lettres persanes,"Charles-Louis de Secondat baron de La Brède et de Montesquieu, John Davidson, Carlos Cantueso",3.5,4.0,1721.0,https://openlibrary.org/works/OL453553W
