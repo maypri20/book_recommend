@@ -1,0 +1,67 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual Environments ----
+.venv/
+env/
+venv/
+ENV/
+.book_recommend_env/
+*.env
+
+# ---- UV and Build Artifacts ----
+.uv/
+uv.lock
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ---- Jupyter & Logs ----
+.ipynb_checkpoints/
+*.log
+
+# ---- IDE / Editor Files ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ---- Data & Cache ----
+data/
+datasets/
+tmp/
+cache/
+__cache__/
+*.db
+*.sqlite
+*.csv
+*.json
+*.xlsx
+
+# ---- Environment Variables ----
+.env
+*.env
+
+# ---- Reports & PDFs ----
+*.pdf
+*.docx
+*.pptx
+
+# ---- Misc ----
+*.bak
+*.tmp
+
+
