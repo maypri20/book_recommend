@@ -130,7 +130,7 @@ with tab1:
     # ------------------------------
     # Streamlit UI
     # ------------------------------
-    st.title("📚 Book Recommendation System")
+    st.title(" Book Recommendation System")
     st.markdown("### Find similar books based on author, genre, and rating!")
 
     book_input = st.text_input("Enter a book title (partial or full):", "")
@@ -139,7 +139,7 @@ with tab1:
         matched_book, recommendations = recommend_books(book_input, df, cosine_sim, n=5)
 
         if matched_book is not None:
-            st.markdown("##  Searched Book")
+            st.markdown("## Book Details:")
 
             cover_url = get_book_cover(matched_book["link"])
 
@@ -176,7 +176,7 @@ with tab1:
             """, unsafe_allow_html=True)
 
             # --- Recommended Books Section ---
-            st.markdown("### 📚 Top 5 Similar Books")
+            st.markdown("### More to read")
             for i, row in recommendations.iterrows():
                 cover_url = get_book_cover(row["link"])
                 st.markdown(f"""
@@ -196,7 +196,7 @@ with tab2:
     # ------------------------------
     # Explore by Genre / Author
     # ------------------------------
-    st.title("🔍 Explore Books")
+    st.title("Explore Books")
     st.markdown("### Browse top-rated books by genre or author")
 
     # Dropdown filters
@@ -249,7 +249,7 @@ with tab2:
 
 
 with tab3:
-    st.subheader("📊 Dataset Overview & Insights")
+    st.subheader(" Dataset Overview & Insights")
     st.markdown("Explore statistics about genres, authors, ratings, and publication trends in your dataset.")
 
     # --- Summary Metrics ---
