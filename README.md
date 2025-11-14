@@ -1,9 +1,11 @@
-#  Book Recommendation System
+## Book Recommendation System
 
-A **Content-Based Book Recommendation System** built using **Python, Streamlit, and Scikit-learn**, designed to suggest similar books based on **genre, author, rating, and publication year**.  
-The system computes **Cosine Similarity** between books after feature engineering (One-Hot Encoding + Standard Scaling) to generate personalized recommendations.
+A Content-Based Book Recommendation System** built using Python, Streamlit, and Scikit-learn, designed to suggest similar books based on **genre, author, rating, and publication year.  
+The system computes Cosine Similarity between books after feature engineering (One-Hot Encoding + Standard Scaling) to generate personalized recommendations.
+
+
 Presentation Link: https://docs.google.com/presentation/d/1MnuaB9OxC-V0bp87MpTXUwattlxt06ytp41ZPH7dhkE/edit?usp=sharing
----
+
 
 ##  Features
 
